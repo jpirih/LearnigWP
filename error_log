@@ -1,0 +1,4 @@
+[17-Feb-2016 12:39:34 UTC] PHP Warning:  Division by zero in /home4/jpirih/public_html/wordpress/wp-content/plugins/php-code-widget/execphp.php(27) : eval()'d code on line 41
+[17-Feb-2016 12:43:15 UTC] PHP Warning:  Division by zero in /home4/jpirih/public_html/wordpress/wp-content/plugins/php-code-widget/execphp.php(27) : eval()'d code on line 41
+[17-Feb-2016 12:43:42 UTC] PHP Warning:  Division by zero in /home4/jpirih/public_html/wordpress/wp-content/plugins/php-code-widget/execphp.php(27) : eval()'d code on line 41
+[17-Feb-2016 12:43:51 UTC] PHP Warning:  Division by zero in /home4/jpirih/public_html/wordpress/wp-content/plugins/php-code-widget/execphp.php(27) : eval()'d code on line 41
